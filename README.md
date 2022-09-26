@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Eduardo Pavarino</h1>
-<h3 align="center">A brazilian computer scientist and, currently, medical student seeking to develop valuable technology for better health outcomes</h3>
+<h3 align="center">A brazilian computer scientist and medical student seeking to develop valuable technology for better health outcomes</h3>
 
-- 💬 Ask me about **Python, HTML/CSS, JavaScript, React, SQL**
+- 💻 Bachelor Degree in Computer Science from UNESP
+
+- 🩺 Medical student at FMRP-USP
+
+- 📄 Know about my previous scientific works [http://lattes.cnpq.br/7625618433243127](http://lattes.cnpq.br/7625618433243127)
 
 - 📫 How to reach me **pavarinodu@gmail.com**
-
-- 📄 Know about my experiences [http://lattes.cnpq.br/7625618433243127](http://lattes.cnpq.br/7625618433243127)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
